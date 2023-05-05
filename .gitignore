@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Rock-Paper-Scissors (Java)/task/build/
+/Rock-Paper-Scissors (Java)/task/out/
+/Rock-Paper-Scissors (Java)/task/out/production/classes/
